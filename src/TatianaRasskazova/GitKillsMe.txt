@@ -1,0 +1,8 @@
+
+
+
+Local master         ORIGIN MASTER AHAHAHAHAH
+     ↓                   ↑
+Local develop      Origin develop
+     ↓                   ↑
+Local feature-a → Origin feature-a
