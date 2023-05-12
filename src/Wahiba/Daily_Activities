@@ -1,0 +1,30 @@
+
+
+
+    My shift starts at 8am, first thing I check my email for the
+    results of my smoke test which is scheduled to execute at 6 am, at the end of execution it will auto generate a report and send out to the whole team (purpose of smoke test make sure that the application is up and running.)
+   	If there is a problem, I will rerun the smoke test and analyze if the problem is from
+   	environment or from my script.
+   	If it is a service issue, I will immediately contact devops
+   	If it is about my scripts, I will debug my scripts
+   	If it is a bug, I will reproduce it and log the defect.
+   	Then I check my emails which I may have received yesterday after I left my desk, to make sure that
+   	 I am not missing anything from yesterday.
+   	Then I open and check my Jira board, basically getting ready for my daily stand up which takes
+   	place at 10 am everyday.
+   	At stand up as a team we discuss what we did yesterday, what we are working on right now and
+   	more importantly if there are impediment/blockers holding me to do my job. By the way.
+   	After stand up I go back to my desk and start working on my tasks. We have a core hour policy
+   	 till 12:00 for about 2 hours in our company; and everybody head down and work at that time period,
+   	 no distraction, no one can set up a meeting after daily standup till noon.
+   	My tasks differ depending on which part of sprint our team is.
+   	Let's say if it is early sprint, I would participate in planning and grooming meeting where we
+   	 go over the user stories and pointing them.
+   	Also, I would work on maintaining my framework, participate in test scenario reviews.
+   	Towards the mid sprint where the code is being released, I would complete my automation and start execution.
+   	If it is towards to the end of the sprint, I would be busy with getting reports ready and participate in demo.
+   	Also, we have retro at the end of the sprint.
+   	Every Tuesdays we have lunch and learn session where we share our coding and automation experience, we do this as a brown bag lunch, and it really helps us increase our overall productivity, saving the company resources and
+   	money but also, gives us the valuable opportunity to get to know each other.
+   •Also, every Friday we have code review meeting among automation testers of the project. As I know java, I also participate in developers code review meetings just to get an idea of the code.
+   	So, this is basically my day.
