@@ -1,5 +1,8 @@
-try{
-good morning!
-}catch Vladimir{
+ try {
+            Thread.sleep(5000);
+            System.out.println("Try Bock");
 
-}
+        }catch (InterruptedException e){  //reference variable e
+
+            System.out.println("Catch Block");
+        }
