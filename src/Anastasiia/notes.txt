@@ -1,0 +1,3 @@
+Final : keyword -> unchangeable
+Finalize: method -> garbage collection use
+Finally : block  -> can only be used with try and catch block
