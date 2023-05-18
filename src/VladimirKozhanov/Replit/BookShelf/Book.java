@@ -1,5 +1,8 @@
 package VladimirKozhanov.Replit.BookShelf;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 /**
  * Represents an individual copy of a book
  */
@@ -149,7 +152,7 @@ public class Book {
 
 
 
-}
+
 
     /**
      * toString instance method, String representation of the Book object
