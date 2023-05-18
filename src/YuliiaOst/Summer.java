@@ -6,4 +6,6 @@ public class Summer {
 
     // But I should to study at Cydeo
 
+    // And I will study all summer...
+
 }
