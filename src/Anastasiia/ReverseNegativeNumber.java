@@ -72,7 +72,7 @@ public class ReverseNegativeNumber {
 
         public static void main(String[] args) {
 
-            Reverse(-123);
+            Reverse(100);
         }
     }
 
