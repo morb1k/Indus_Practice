@@ -1,0 +1,37 @@
+Java Questions
+
+What is the difference between JDK JVM and JRE
+
+What is super class in Java?
+
+What is Polymorphism? What is Abstraction, give a practical example.
+
+How will you make sure that main thread is the last one to exit?
+
+Main Interfaces in Collections API - List, Set, Map. What is the difference between them?
+
+Enumerator vs Iterator? Which one is thread safe?
+
+Can collection classes be made serializable. How to do that?
+
+Catch NPE first and Exception in last, will that work? Discuss the exception hierarchy. What are the inheritance rules for Exceptions?
+
+Error and exception difference with an example. StackoverflowError, OOMError, etc.
+
+Custom exceptions, how will you create one?
+
+How will you compare two java objects?
+
+Multiple inheritance in Java? How does Java 8 address this?
+
+What is method overloading in Java?
+
+What is method overriding in Java?
+
+Difference between Overriding and Overloading a method
+
+Inheritance vs Composition in Java
+
+How to swap two numbers without a temporary variable? Discuss XOR approach. what are problems with addition approach?
+
+Which one is better - extending Thread class or implementing Runnable interface

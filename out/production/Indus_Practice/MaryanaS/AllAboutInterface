@@ -1,0 +1,31 @@
+/*
+• It’s a template, a blueprint of a class
+• The interface keyword is used to create interface
+• Specifies the behavior(s) that a class should implement
+• Provides additional methods that class(es) need.
+• We can achieve 100% abstraction using interfaces
+Properties of Interface
+• Variables are static & final by default
+• Interface can have static methods, abstract methods and default methods only
+• Public is the only access modifier that can be used in interface (except for static
+methods which can be declared as private after since JDK 9) and given by default
+• The Abstract keyword is given by default to the abstract methods of interface
+• An interface can not have instance variables
+• An interface can not have instance methods
+• An interface can not have constructors
+• An interface can not have blocks
+• We can not create objects from interface
+• Class can extend only one superclass, but java allows a class to
+implement multiple interfaces
+• The implements keyword is used to inherit from interface(s)
+• When a class implements multiple interfaces, it must implement
+(override) all the abstract methods
+Interface
+Can not be instantiated
+Multiple inheritance is allowed
+Can not have constructor
+Can have static, abstract and default methods
+Can only have static variable (final by default)
+Can not be final
+Can not use the access modifiers other than
+public & private ( for static methods
